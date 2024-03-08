@@ -55,7 +55,7 @@ The main objective of this analysis is to explore the dataset, understand the re
 
 # Pie chart:
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="Pie.png">
 </p>
 
 # Boxplot:
