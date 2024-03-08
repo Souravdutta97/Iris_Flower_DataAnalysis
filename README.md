@@ -1,4 +1,7 @@
-# Iris_Flower_DataAnalysis
+# Iris_Flower_DataAnalysis:
+<p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
 # Inroduction
 The Iris Flower dataset is a classic dataset. It was introduced by the British biologist and statistician Ronald Fisher in 1936 as an example of discriminant analysis. The dataset consists of 150 samples from three species of Iris flowers: Iris setosa, Iris virginica, and Iris versicolor. For each sample, four features are measured: the length and width of the sepals and petals, in centimeters.
