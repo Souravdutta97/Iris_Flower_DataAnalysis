@@ -50,7 +50,7 @@ The main objective of this analysis is to explore the dataset, understand the re
 
 # Histogram:
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="Histograme.png">
 </p>
 
 # Pie chart:
