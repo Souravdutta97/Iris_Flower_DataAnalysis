@@ -30,6 +30,7 @@ The main objective of this analysis is to explore the dataset, understand the re
 5. Pie Chart: Assume that the dataset represents the entire population of Iris flowers. Create a pie chart showing the proportion of each species in the population.
 
 6. Box Plot: Create a box plot showing the distribution of sepal length for each species.
+7. Sub plot: Combine the scatter plot and the histogram into one figure by using subplots.
 
 # Based on the Report:
 
