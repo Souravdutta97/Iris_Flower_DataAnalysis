@@ -70,3 +70,9 @@ The main objective of this analysis is to explore the dataset, understand the re
 
 # Conclusion:
 In conclusion, our analysis of the Iris Flower dataset has provided valuable insights into the characteristics of different Iris species and demonstrated various data analysis techniques using Python and popular data science libraries.Overall, our analysis of the Iris Flower dataset has showcased the importance of exploratory data analysis, data visualization, statistical analysis, and machine learning in understanding and analyzing datasets. We hope that this analysis serves as a useful example for others interested in data analysis.
+
+# Authors:
+
+- [@Souravdutta97](https://github.com/Souravdutta97)
+
+Sourav Dutta - Data Analyst
