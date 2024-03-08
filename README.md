@@ -40,7 +40,7 @@ The main objective of this analysis is to explore the dataset, understand the re
 
 # Scatter plot:
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="Scatterplot.png">
 </p>
 
 # Bar plot:
