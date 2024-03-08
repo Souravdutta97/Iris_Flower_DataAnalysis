@@ -45,7 +45,7 @@ The main objective of this analysis is to explore the dataset, understand the re
 
 # Bar plot:
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="Bar_plot.png">
 </p>
 
 # Histogram:
